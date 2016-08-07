@@ -14,6 +14,9 @@ Repositorio de ejemplos y código de la materia de Técnicas de Optimizacion Apl
 * Alineamiento
 * LCS
 
+[Ejemplos](http://nbviewer.jupyter.org/github/miguelius/tecnicasOptimizacion/blob/master/semanaUno/Semana%201.ipynb)
+
+
 ### LCS Optimizado
 
 ## Semana 2
